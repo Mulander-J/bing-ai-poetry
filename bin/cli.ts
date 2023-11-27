@@ -28,27 +28,37 @@ async function init() {
             if (!fs.existsSync(imagesFolderPath)) {
                 fs.mkdirSync(imagesFolderPath);
             }
-
+            const images = res.images
+            // for mock
+            // const images = [
+            //     'https://tse1.mm.bing.net/th/id/OIG.Pa3zsTrgnQTCvEvHTYSN',
+            //     'https://tse2.mm.bing.net/th/id/OIG.kwO_0B696lHc_2uzuteT',
+            //     'https://tse2.mm.bing.net/th/id/OIG.RVgrn490tlgqsnOEx979',
+            //     'https://tse1.mm.bing.net/th/id/OIG.JDPD3bBJsWFl9ddU_kHP'
+            // ]
             let imgPaths:any[] = []
             // 将图片放入 images 目录下的文件夹中
-            res.images.forEach((image, index) => {
-                // images 中是网络url，请求图片，将图片保存到 images 目录下的文件夹中
-                const imageFileName = `${index}.jpg`;
+            for(let i = 0; i < images.length; i++){
+                 // images 中是网络url，请求图片，将图片保存到 images 目录下的文件夹中
+                const imageFileName = `${i}.jpg`;
                 const imageFilePath = path.join(imagesFolderPath, imageFileName);
+                const imageDocPath = `./images/${imagesFolderName}/${imageFileName}`
+                imgPaths.push(`![${imagesFolderName}_${imageFileName}](${imageDocPath})[${imageFileName}](${images[i]})`)
 
                 // 下载图片
-                fetch(image).then((res) => {
-                    imgPaths.push(`![${imagesFolderName}_${imageFileName}](${imageFilePath})`)
-                    if (!res.ok) throw new Error(`unexpected response ${res.statusText}`);
-                    // @ts-ignore
-                    pipeline(res.body, fs.createWriteStream(imageFilePath)).catch((e) => {
-                        console.error("Something went wrong while saving the image", e);
-                    });
+                console.log('fetching...', images[i])
+                const res:any = await fetch(images[i])
+                if (!res.ok) throw new Error(`unexpected response ${res.statusText}`);
+                await pipeline(res.body, fs.createWriteStream(imageFilePath)).catch((e) => {
+                    console.error("Something went wrong while saving the image", e);
                 });
-            });
+                console.log('>fetched', images[i])
+            }
+            console.log('Fetch Images Ended')
+
             const options = { timeZone: "Asia/Shanghai", hour12: false };
             const outputData = {
-                ...res,
+                // ...res,
                 date: new Date().toLocaleString("zh-CN", options),
                 localImagesPath: imagesFolderName,
             };
@@ -57,13 +67,16 @@ async function init() {
 
             fs.writeFileSync(contentFile, JSON.stringify(outputData));
 
-            const appendCtx = `|${imgPaths.map(_=>'      ').join('|')}|\n|${imgPaths.map(_=>' :----: ').join('|')}|\n|${imgPaths.join('|')}|`
+            let appendCtx = `|${imgPaths.map(_=>'      ').join('|')}|\n`
+            appendCtx += `|${imgPaths.map(_=>' :----: ').join('|')}|\n`
+            appendCtx += `|${imgPaths.join('|')}|`
             fs.appendFileSync('./README.md', `\n**${res.content}**\n${appendCtx}`)
 
+            // 为了让图片下载完毕，再退出进程
+            console.log('Wating Sec...')
             setTimeout(() => {
-                // 为了让图片下载完毕，再退出进程
                 process.exit(0);
-            }, 5000);
+            }, 5 * 1000);
         } catch (e) {
             console.error(e);
             process.exit(1);
