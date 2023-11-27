@@ -30,7 +30,7 @@ jobs:
               run: pnpm run build
 
             - name: Create Image
-              run: pnpm run start --cookie "${{ secrets.BING_COOKIE }}"
+              run: pnpm run start --cookie="${{ secrets.BING_COOKIE }}"
 
             - name: Push New Pic
               run: |

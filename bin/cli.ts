@@ -11,8 +11,7 @@ async function init() {
     const cwd = process.cwd();
 
     const argv = require("minimist")(process.argv.slice(2));
-
-    if (argv.cookie) {
+    if (argv.cookie && typeof argv.cookie !== 'boolean') {
         try {
             const res: Response = await getImageBySentence(argv.cookie);
             console.log("Create Successful: ", res);
