@@ -57,7 +57,7 @@ async function init() {
 
             const options = { timeZone: "Asia/Shanghai", hour12: false };
             const outputData = {
-                // ...res,
+                ...res,
                 date: new Date().toLocaleString("zh-CN", options),
                 localImagesPath: imagesFolderName,
             };
