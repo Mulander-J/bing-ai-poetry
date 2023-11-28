@@ -13,6 +13,17 @@ async function init() {
     const argv = require("minimist")(process.argv.slice(2));
     if (argv.cookie && typeof argv.cookie !== 'boolean') {
         try {
+            // const res =  {
+            //     images: [
+            //         'https://tse1.mm.bing.net/th/id/OIG.0lT30AZgF0Y9TGnssoUu',
+            //         'https://tse2.mm.bing.net/th/id/OIG.AYKgb1ftqrAfxCfwGjCs',
+            //         'https://tse1.mm.bing.net/th/id/OIG.GcNrrihRgfhlHOwiRtR.'
+            //     ],
+            //     content: '关山别荡子，风月守空闺。',
+            //     origin: '昔昔盐',
+            //     author: '薛道衡',
+            //     category: '古诗文-抒情-离别'
+            // }
             const res: Response = await getImageBySentence(argv.cookie);
             console.log("Create Successful: ", res);
 
@@ -28,13 +39,6 @@ async function init() {
                 fs.mkdirSync(imagesFolderPath);
             }
             const images = res.images
-            // for mock
-            // const images = [
-            //     'https://tse1.mm.bing.net/th/id/OIG.Pa3zsTrgnQTCvEvHTYSN',
-            //     'https://tse2.mm.bing.net/th/id/OIG.kwO_0B696lHc_2uzuteT',
-            //     'https://tse2.mm.bing.net/th/id/OIG.RVgrn490tlgqsnOEx979',
-            //     'https://tse1.mm.bing.net/th/id/OIG.JDPD3bBJsWFl9ddU_kHP'
-            // ]
             let imgPaths:any[] = []
             // 将图片放入 images 目录下的文件夹中
             for(let i = 0; i < images.length; i++){
@@ -66,10 +70,16 @@ async function init() {
 
             fs.writeFileSync(contentFile, JSON.stringify(outputData));
 
+            const rowHead = `> ${res.content} —— ${res.author}《${res.origin}》\n`
             let appendCtx = `|${imgPaths.map(_=>'      ').join('|')}|\n`
             appendCtx += `|${imgPaths.map(_=>' :----: ').join('|')}|\n`
             appendCtx += `|${imgPaths.join('|')}|`
-            fs.appendFileSync('./README.md', `\n**${res.content}**\n${appendCtx}`)
+            fs.appendFileSync('./README.md', [
+                '',
+                rowHead,
+                appendCtx,
+                ''
+            ].join('\n'))
 
             // 为了让图片下载完毕，再退出进程
             console.log('Wating Sec...')
