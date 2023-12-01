@@ -73,7 +73,7 @@ export class BingImageCreator {
                         throw new Error("Timeout");
                     }
 
-                    await sleep(1000);
+                    await sleep(2000);
                     result = await this.getResults(getResultUrl);
                     if (result) {
                         break;
@@ -118,21 +118,12 @@ export class BingImageCreator {
         // Use regex to search for src=""
         const regex = /src="([^"]*)"/g;
         const matches = [...result.matchAll(regex)].map((match) => match[1]);
-        // # Remove size limit
-        const normal_image_links = matches.map((link) => {
-            return link.split("?w=")[0];
-        });
+        // Remove Bad Images(https://r.bing.com/rp/xxx)
+        const safe_image_links = matches.filter(link => !/r.bing.com\/rp/i.test(link))
+        // Remove size limit
+        const normal_image_links = safe_image_links.map(link => (link.split("?w=")[0]));
         // Remove duplicates
         const unique_image_links = [...new Set(normal_image_links)];
-        const bad_images = [
-            "https://r.bing.com/rp/in-2zU3AJUdkgFe7ZKv19yPBHVs.png",
-            "https://r.bing.com/rp/TX9QuO3WzcCJz1uaaSwQAz39Kb0.jpg",
-        ];
-        for (const img of unique_image_links) {
-            if (bad_images.includes(img)) {
-                throw new Error("Bad images");
-            }
-        }
         // No images
         if (unique_image_links.length === 0) {
             throw new Error("error_no_images");
