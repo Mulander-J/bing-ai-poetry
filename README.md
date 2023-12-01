@@ -17,3 +17,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1701299518133_0.jpg](./images/1701299518133/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG.jKBa3t0LTaj1EJiKV1n2)|![1701299518133_1.jpg](./images/1701299518133/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG.vOk2IEvsn9lIGI3dMJ1d)|![1701299518133_2.jpg](./images/1701299518133/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.OZMv9rKn4G2JoqRe34jj)|![1701299518133_3.jpg](./images/1701299518133/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.m.IcBuZAquD0HwJtZCJn)|
+
+> 岁岁金河复玉关，朝朝马策与刀环。 —— 柳中庸《征人怨 / 征怨》
+
+|      |      |      |      |      |
+| :----: | :----: | :----: | :----: | :----: |
+|![1701398007387_0.jpg](./images/1701398007387/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.v9AbdG1R4GvmMGbkOvVQ)|![1701398007387_1.jpg](./images/1701398007387/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG.OVsCFutV.oPiTJuU9EZx)|![1701398007387_2.jpg](./images/1701398007387/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG.UtPqTkzAGCeWhLVjAplS)|![1701398007387_3.jpg](./images/1701398007387/3.jpg)[3.jpg](https://tse1.mm.bing.net/th/id/OIG.TuORFP5oxLmZEJS7ukJI)|![1701398007387_4.jpg](./images/1701398007387/4.jpg)[4.jpg](https://r.bing.com/rp/gmZtdJVd-klWl3XWpa6-ni1FU3M.svg)|
