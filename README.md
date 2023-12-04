@@ -28,3 +28,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1701645078576_0.jpg](./images/1701645078576/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.uI_vGGsrx21Bx6OnsLzx)|![1701645078576_1.jpg](./images/1701645078576/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.Mu4F8wbwK1E1Cj4Z7tFr)|![1701645078576_2.jpg](./images/1701645078576/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.AQ1lm4D6FYZq5cinV_g9)|![1701645078576_3.jpg](./images/1701645078576/3.jpg)[3.jpg](https://tse1.mm.bing.net/th/id/OIG.UEkOHKlHesAIU8TmQrHw)|
+
+> 灵山多秀色，空水共氤氲。 —— 张九龄《湖口望庐山瀑布泉 / 湖口望庐山瀑布水》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1701731571503_0.jpg](./images/1701731571503/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG.6NbwmhLVLWllYch.r215)|![1701731571503_1.jpg](./images/1701731571503/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG.iDhWyIMlIIq1sLa3uzL7)|![1701731571503_2.jpg](./images/1701731571503/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.MoAMb2atK_FrGRBAjDzz)|![1701731571503_3.jpg](./images/1701731571503/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.wsQ0TbXBX6AMqdAc2I6P)|
