@@ -46,3 +46,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1701904291322_0.jpg](./images/1701904291322/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.812BWZ1Krv9cib5bMZN8)|![1701904291322_1.jpg](./images/1701904291322/1.jpg)[1.jpg](https://tse1.mm.bing.net/th/id/OIG.qJ05maChmKYpxJghB0es)|![1701904291322_2.jpg](./images/1701904291322/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.UrWv3gx7eJaN6MvPmNnI)|![1701904291322_3.jpg](./images/1701904291322/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.l53P9HgG1KUIUjLpaEYh)|
+
+> 君怀良不开，贱妾当何依。 —— 曹植《明月上高楼》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1701990650809_0.jpg](./images/1701990650809/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.qxGQZPR1XBqDR2JOPy0r)|![1701990650809_1.jpg](./images/1701990650809/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG.IAUYg7iVVuPlXKREUdYd)|![1701990650809_2.jpg](./images/1701990650809/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG.13gZoFJ8_dFJTBxXzDA4)|![1701990650809_3.jpg](./images/1701990650809/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG.vVxuUqcao1CUbqXzY.LG)|
