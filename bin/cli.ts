@@ -81,7 +81,7 @@ async function init() {
                 ''
             ].join('\n'))
 
-            // 为了让图片下载完毕，再退出进程
+            // 缓冲等待，确保未捕获的异步任务都能跑完
             console.log('Wating Sec...')
             setTimeout(() => {
                 process.exit(0);
