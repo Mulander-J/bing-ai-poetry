@@ -76,3 +76,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1702336229980_0.jpg](./images/1702336229980/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.nxo6CXB_83sXU0IxwkWf)|![1702336229980_1.jpg](./images/1702336229980/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG.W.Vv86dQ.Hn5kO5Fm0yf)|![1702336229980_2.jpg](./images/1702336229980/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG.eKDfZdE6HQP9Wj8YIqHe)|![1702336229980_3.jpg](./images/1702336229980/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.8JO5TJciJTc9j.rw0gNq)|
+
+> 锄禾日当午，汗滴禾下土。 —— 李绅《古风二首 / 悯农二首》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1702422653237_0.jpg](./images/1702422653237/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.5OHJeYhBaFjXQBz7NAMI)|![1702422653237_1.jpg](./images/1702422653237/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.eaSicLawzfmn2JnGdDMw)|![1702422653237_2.jpg](./images/1702422653237/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.jaxV4XxAWw06zjDHBVws)|![1702422653237_3.jpg](./images/1702422653237/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG.c8gfZCXgQeMsitWMC_aF)|
