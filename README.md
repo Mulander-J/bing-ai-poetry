@@ -94,3 +94,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1702595444360_0.jpg](./images/1702595444360/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.yC9ulGvgYKVbhXRmbz11)|![1702595444360_1.jpg](./images/1702595444360/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.fJ0VruOC7cqN.ECLJmya)|![1702595444360_2.jpg](./images/1702595444360/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.ERk9bRYbJ..upDLa_.ic)|![1702595444360_3.jpg](./images/1702595444360/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG.SOWvz9T8hX7ceJGqI2n6)|
+
+> 城里夕阳城外雪，相将十里异阴晴。 —— 王守仁《次韵陆佥宪元日春晴》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1702681807770_0.jpg](./images/1702681807770/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG.CgHKnBNHwNb4QsvhNRDB)|![1702681807770_1.jpg](./images/1702681807770/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.hYevm6wIHcpBBzyfICm4)|![1702681807770_2.jpg](./images/1702681807770/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.RYT9.CWS0u4of91i.Z.8)|![1702681807770_3.jpg](./images/1702681807770/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG.Urd5yeIYPumKpwg9CJmF)|
