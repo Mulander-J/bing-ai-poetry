@@ -100,3 +100,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1702681807770_0.jpg](./images/1702681807770/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG.CgHKnBNHwNb4QsvhNRDB)|![1702681807770_1.jpg](./images/1702681807770/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.hYevm6wIHcpBBzyfICm4)|![1702681807770_2.jpg](./images/1702681807770/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.RYT9.CWS0u4of91i.Z.8)|![1702681807770_3.jpg](./images/1702681807770/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG.Urd5yeIYPumKpwg9CJmF)|
+
+> 酒贱常愁客少，月明多被云妨。 —— 苏轼《西江月·世事一场大梦》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1702768174736_0.jpg](./images/1702768174736/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.5QzlWAbaFwALv6achyfp)|![1702768174736_1.jpg](./images/1702768174736/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.CbFPcMIdiNxpLFws5tSB)|![1702768174736_2.jpg](./images/1702768174736/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG.1QY1Hcb4JDVpZbnQav9n)|![1702768174736_3.jpg](./images/1702768174736/3.jpg)[3.jpg](https://tse1.mm.bing.net/th/id/OIG.uFu5IgDIAdlDHiMBSby0)|
