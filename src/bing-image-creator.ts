@@ -60,7 +60,7 @@ export class BingImageCreator {
         });
         if (response.ok) {
             // 200 is failed
-            console.log('occurs 200', response.body);
+            // console.log('occurs 200', response.body);
             throw new Error("Request failed");
         } else {
             // 302 is success
