@@ -106,3 +106,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1702768174736_0.jpg](./images/1702768174736/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.5QzlWAbaFwALv6achyfp)|![1702768174736_1.jpg](./images/1702768174736/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.CbFPcMIdiNxpLFws5tSB)|![1702768174736_2.jpg](./images/1702768174736/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG.1QY1Hcb4JDVpZbnQav9n)|![1702768174736_3.jpg](./images/1702768174736/3.jpg)[3.jpg](https://tse1.mm.bing.net/th/id/OIG.uFu5IgDIAdlDHiMBSby0)|
+
+> 一轮秋影转金波。飞镜又重磨。 —— 辛弃疾《太常引·建康中秋夜为吕叔潜赋》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1703714895548_0.jpg](./images/1703714895548/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.2yUfSxam45_H8OH.PrQu)|![1703714895548_1.jpg](./images/1703714895548/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.Lw2sazWavqpUkQPixGJg)|![1703714895548_2.jpg](./images/1703714895548/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.Fkg8DszVrk6CeIGvIyLi)|![1703714895548_3.jpg](./images/1703714895548/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.ADoY2tz3DbQ9kvOPO1CH)|
