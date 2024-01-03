@@ -118,3 +118,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1704146910476_0.jpg](./images/1704146910476/0.jpg)[0.jpg](https://tse2.mm.bing.net/th/id/OIG.rKQjmQOwTvcw0dY1.KMj)|![1704146910476_1.jpg](./images/1704146910476/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.bhBpAVXEvIOe0KuX83yl)|![1704146910476_2.jpg](./images/1704146910476/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.J2_P6rEy221U6HVMQffQ)|![1704146910476_3.jpg](./images/1704146910476/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG.EQR6OSDdVBTif4Cni8Pq)|
+
+> 庐山秀出南斗傍，屏风九叠云锦张。 —— 李白《庐山谣寄卢侍御虚舟》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1704319737113_0.jpg](./images/1704319737113/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG.UVfoGAB.7q6EwKcNEir1)|![1704319737113_1.jpg](./images/1704319737113/1.jpg)[1.jpg](https://tse1.mm.bing.net/th/id/OIG.HfgtVxH9w.GbuWgp47Lo)|![1704319737113_2.jpg](./images/1704319737113/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.h6292Nyc6rYCJkunGlCG)|![1704319737113_3.jpg](./images/1704319737113/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG.dusWyRLh3Mr53j1CLqKl)|
