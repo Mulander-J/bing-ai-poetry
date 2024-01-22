@@ -142,3 +142,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1705529330182_0.jpg](./images/1705529330182/0.jpg)[0.jpg](https://tse1.mm.bing.net/th/id/OIG.MTw38MKiHQWzQBo_Z5YP)|![1705529330182_1.jpg](./images/1705529330182/1.jpg)[1.jpg](https://tse1.mm.bing.net/th/id/OIG.mJlKWIUoVVLgho3o1iPG)|![1705529330182_2.jpg](./images/1705529330182/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.Zwzf5vXlOZ4O8ImV8U.J)|![1705529330182_3.jpg](./images/1705529330182/3.jpg)[3.jpg](https://tse3.mm.bing.net/th/id/OIG.6v_JqYDafn8M.tUBnsUS)|
+
+> 痴儿不知父子礼，叫怒索饭啼门东。 —— 杜甫《百忧集行》
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![1705961311167_0.jpg](./images/1705961311167/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG.kd0upY1Qx22B241yi0Lq)|![1705961311167_1.jpg](./images/1705961311167/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.Oa8QRBsULPTcNkW70j6F)|![1705961311167_2.jpg](./images/1705961311167/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.Z.9TXZM3VoJ2YMTiOB3t)|
