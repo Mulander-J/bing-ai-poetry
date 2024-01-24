@@ -148,3 +148,9 @@
 |      |      |      |
 | :----: | :----: | :----: |
 |![1705961311167_0.jpg](./images/1705961311167/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG.kd0upY1Qx22B241yi0Lq)|![1705961311167_1.jpg](./images/1705961311167/1.jpg)[1.jpg](https://tse3.mm.bing.net/th/id/OIG.Oa8QRBsULPTcNkW70j6F)|![1705961311167_2.jpg](./images/1705961311167/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG.Z.9TXZM3VoJ2YMTiOB3t)|
+
+> 北风夜卷赤亭口，一夜天山雪更厚。 —— 岑参《天山雪歌送萧治归京》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1706134114938_0.jpg](./images/1706134114938/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG.T8AbuD6mPq5HgPVMfWvX)|![1706134114938_1.jpg](./images/1706134114938/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.ZWXETOW0sru3v7oiwweQ)|![1706134114938_2.jpg](./images/1706134114938/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.WNslgg90NcaMVM6MNaT_)|![1706134114938_3.jpg](./images/1706134114938/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG.eNwMeF2JK9_UgOfZbbW_)|
