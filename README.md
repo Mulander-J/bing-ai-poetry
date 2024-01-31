@@ -154,3 +154,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1706134114938_0.jpg](./images/1706134114938/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG.T8AbuD6mPq5HgPVMfWvX)|![1706134114938_1.jpg](./images/1706134114938/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG.ZWXETOW0sru3v7oiwweQ)|![1706134114938_2.jpg](./images/1706134114938/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG.WNslgg90NcaMVM6MNaT_)|![1706134114938_3.jpg](./images/1706134114938/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG.eNwMeF2JK9_UgOfZbbW_)|
+
+> 群芳过后西湖好，狼籍残红。 —— 欧阳修《采桑子·群芳过后西湖好》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1706738914212_0.jpg](./images/1706738914212/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG4.qQzf2TAJiJeMy_saR2Oa)|![1706738914212_1.jpg](./images/1706738914212/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG4.tvhdv9KMiLbHh.3.6g7o)|![1706738914212_2.jpg](./images/1706738914212/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG4.yyqoLd76G5TwiD3M8Au9)|![1706738914212_3.jpg](./images/1706738914212/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG4.28cbTEw2Gx6cVn4Rcuox)|
