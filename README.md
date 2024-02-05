@@ -160,3 +160,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1706738914212_0.jpg](./images/1706738914212/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG4.qQzf2TAJiJeMy_saR2Oa)|![1706738914212_1.jpg](./images/1706738914212/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG4.tvhdv9KMiLbHh.3.6g7o)|![1706738914212_2.jpg](./images/1706738914212/2.jpg)[2.jpg](https://tse2.mm.bing.net/th/id/OIG4.yyqoLd76G5TwiD3M8Au9)|![1706738914212_3.jpg](./images/1706738914212/3.jpg)[3.jpg](https://tse2.mm.bing.net/th/id/OIG4.28cbTEw2Gx6cVn4Rcuox)|
+
+> 归装渐理君知否？笑指庐山古涧藤。 —— 陆游《自咏示客》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1707170949504_0.jpg](./images/1707170949504/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG4.ezTUQgC0ZclnIU2.4kp6)|![1707170949504_1.jpg](./images/1707170949504/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG4.lvz3PzMYo8fXSmTVkhQl)|![1707170949504_2.jpg](./images/1707170949504/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG4.1WzkyI9.3hUo5GdoYJ5r)|![1707170949504_3.jpg](./images/1707170949504/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG4.BWjivxyQXZKqI.AUDTOn)|
