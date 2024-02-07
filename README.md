@@ -166,3 +166,9 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1707170949504_0.jpg](./images/1707170949504/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG4.ezTUQgC0ZclnIU2.4kp6)|![1707170949504_1.jpg](./images/1707170949504/1.jpg)[1.jpg](https://tse2.mm.bing.net/th/id/OIG4.lvz3PzMYo8fXSmTVkhQl)|![1707170949504_2.jpg](./images/1707170949504/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG4.1WzkyI9.3hUo5GdoYJ5r)|![1707170949504_3.jpg](./images/1707170949504/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG4.BWjivxyQXZKqI.AUDTOn)|
+
+> 叹息老来交旧尽，睡来谁共午瓯茶。 —— 陆游《幽居初夏》
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1707343694656_0.jpg](./images/1707343694656/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG2.qPkuRhByn88ZLtA6B3OX)|![1707343694656_1.jpg](./images/1707343694656/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG2.LR0.fyCK66KRkUAvT6kR)|![1707343694656_2.jpg](./images/1707343694656/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG2.7xbxRPKgEpRbPfzPHsHr)|![1707343694656_3.jpg](./images/1707343694656/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG2.YBEw_1MJril4q7XbUYK0)|
