@@ -57,7 +57,7 @@ async function init() {
         fs.writeFileSync(contentFile, JSON.stringify(outputData));
 
         const rowHead = `> ${res.content} —— ${res.author}(${res.dynasty})《${res.origin}》\n`;
-        const details = `**Tags:** ${res.category} \n`;
+        const details = `**CreateAt:** ${outputData.date} | **Tags:** ${res.category}\n`;
         let imgsTable = `|${imgPaths.map(_=>'      ').join('|')}|\n`;
         imgsTable += `|${imgPaths.map(_=>' :----: ').join('|')}|\n`;
         imgsTable += `|${imgPaths.join('|')}|`;
