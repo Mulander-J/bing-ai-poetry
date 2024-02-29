@@ -172,3 +172,11 @@
 |      |      |      |      |
 | :----: | :----: | :----: | :----: |
 |![1707343694656_0.jpg](./images/1707343694656/0.jpg)[0.jpg](https://tse3.mm.bing.net/th/id/OIG2.qPkuRhByn88ZLtA6B3OX)|![1707343694656_1.jpg](./images/1707343694656/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG2.LR0.fyCK66KRkUAvT6kR)|![1707343694656_2.jpg](./images/1707343694656/2.jpg)[2.jpg](https://tse1.mm.bing.net/th/id/OIG2.7xbxRPKgEpRbPfzPHsHr)|![1707343694656_3.jpg](./images/1707343694656/3.jpg)[3.jpg](https://tse4.mm.bing.net/th/id/OIG2.YBEw_1MJril4q7XbUYK0)|
+
+> 细雨梦回鸡塞远，小楼吹彻玉笙寒。 —— 李璟(五代)《摊破浣溪沙·菡萏香销翠叶残》
+
+**Tags:** 小雨,雨,寒冷
+
+|      |      |      |      |
+| :----: | :----: | :----: | :----: |
+|![1709177267752_0.jpg](./images/1709177267752/0.jpg)[0.jpg](https://tse4.mm.bing.net/th/id/OIG4.GhWk3bTX8npIcer6EK_r)|![1709177267752_1.jpg](./images/1709177267752/1.jpg)[1.jpg](https://tse4.mm.bing.net/th/id/OIG4.TQKpNcBKkOfpOYnJw7V8)|![1709177267752_2.jpg](./images/1709177267752/2.jpg)[2.jpg](https://tse4.mm.bing.net/th/id/OIG4.UdpGloqTKSQMkrMkoBU5)|![1709177267752_3.jpg](./images/1709177267752/3.jpg)[3.jpg](https://tse1.mm.bing.net/th/id/OIG4.Y4.iKYr.IqHPrSZVdID1)|
