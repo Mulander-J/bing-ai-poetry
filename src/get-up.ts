@@ -13,7 +13,7 @@ async function getSentence(): Promise<SentenceResponse> {
     try {
         const res = await fetch(SENTENCE_API, {
             headers: {
-                'X-User-Token': process.env.jrsc_token
+                'X-User-Token': process.env.JRSC_TOKEN
             },
         });
         const { data }: JRSCV2Response = await res.json();

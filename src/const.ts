@@ -1,5 +1,5 @@
 export const BING_URL: string = process.env.BING_URL || "https://www.bing.com";
-export const BING_COOKIE:string = process.env.bing_cookie;
+export const BING_COOKIE:string = process.env.BING_COOKIE;
 export const HEADERS: { [key: string]: string } = {
     cookie: BING_COOKIE,
     accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",

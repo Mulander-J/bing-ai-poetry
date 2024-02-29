@@ -28,9 +28,12 @@ jobs:
 
             - name: Build
               run: pnpm run build
+              env:
+                BING_COOKIE: ${{ secrets.BING_COOKIE }}
+                JRSC_TOKEN: ${{ secrets.JRSC_TOKEN }}
 
             - name: Create Image
-              run: pnpm run start --cookie="${{ secrets.BING_COOKIE }}"
+              run: pnpm run start
 
             - name: Push New Pic
               run: |
