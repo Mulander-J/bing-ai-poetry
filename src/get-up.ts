@@ -1,4 +1,3 @@
-import "dotenv/config";
 import { SENTENCE_API } from "./const";
 import { BingImageCreator } from "./bing-image-creator";
 import type { JRSCV2Response, SentenceResponse, Response } from "./types";

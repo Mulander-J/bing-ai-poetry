@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { getImageBySentence } from "../src/get-up";
 import type { Response } from "../src/types";
 import path from "path";
