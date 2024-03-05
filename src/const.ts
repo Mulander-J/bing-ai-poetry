@@ -2,6 +2,8 @@ import "dotenv/config";
 
 console.log('JRSC', !!process.env.JRSC_TOKEN);
 console.log('BING_COOKIE', !!process.env.BING_COOKIE);
+console.log('DOTENV_KEY', !!process.env.DOTENV_KEY);
+console.log('HELLO', !!process.env.HELLO);
 
 export const BING_URL: string = process.env.BING_URL || "https://www.bing.com";
 export const BING_COOKIE:string = process.env.BING_COOKIE;
