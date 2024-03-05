@@ -1,4 +1,4 @@
-import { SENTENCE_API, JRSC_TOKEN } from "./const";
+import { SENTENCE_API } from "./const";
 import { BingImageCreator } from "./bing-image-creator";
 import type { JRSCV2Response, SentenceResponse, Response } from "./types";
 
@@ -8,11 +8,11 @@ import type { JRSCV2Response, SentenceResponse, Response } from "./types";
  * @returns SentenceResponse
  * @throws {Error} The error
  **/
-async function getSentence(): Promise<SentenceResponse> {
+async function getSentence(token:string): Promise<SentenceResponse> {
     try {
         const res = await fetch(SENTENCE_API, {
             headers: {
-                'X-User-Token': JRSC_TOKEN
+                'X-User-Token': token
             },
         });
         const { data }: JRSCV2Response = await res.json();
@@ -30,10 +30,10 @@ async function getSentence(): Promise<SentenceResponse> {
     }
 }
 
-async function getImageBySentence(): Promise<Response> {
-    const bingImageCreator = new BingImageCreator();
+async function getImageBySentence({cookie,token}:Record<string,string>): Promise<Response> {
+    const bingImageCreator = new BingImageCreator(cookie);
 
-    const res = await getSentence();
+    const res = await getSentence(token);
     console.log("getSentence Result: ", res);
 
     const targetTxt = res.translate || res.content

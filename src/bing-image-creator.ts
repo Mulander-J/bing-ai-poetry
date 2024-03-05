@@ -1,14 +1,21 @@
-import { HEADERS, BING_URL, BING_COOKIE } from "./const";
+import { HEADERS, BING_URL } from "./const";
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 export class BingImageCreator {
+    protected _cookie:string
+    protected _header: any
     /**
      * Image generation by Microsoft Bing
      */
-    constructor() {
-        if (!BING_COOKIE || !HEADERS.cookie) {
+    constructor(cookie:string) {
+        if (!cookie) {
             throw new Error("Bing cookie is required");
+        }
+        this._cookie = cookie
+        this._header = {
+            cookie,
+            ...HEADERS,
         }
     }
 
@@ -46,7 +53,7 @@ export class BingImageCreator {
             method: "POST",
             mode: "cors",
             credentials: "include",
-            headers: HEADERS,
+            headers: this._header,
             body: formData,
             redirect: "manual", // set to manual to prevent redirect
         });
@@ -71,7 +78,7 @@ export class BingImageCreator {
                 method: "GET",
                 mode: "cors",
                 credentials: "include",
-                headers: HEADERS
+                headers: this._header,
             });
         } catch (e) {
             throw new Error(`Request redirect_url failed" ${e.message}`);
@@ -104,7 +111,7 @@ export class BingImageCreator {
             method: "GET",
             mode: "cors",
             credentials: "include",
-            headers: HEADERS
+            headers: this._header,
         });
         if (response.status !== 200) {
             throw new Error("Bad status code");

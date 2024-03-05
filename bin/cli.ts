@@ -5,19 +5,22 @@ import fs from "fs";
 import stream from "stream";
 import { promisify } from "util";
 
-import "dotenv/config";
-
-console.log('JRSC', !!process.env.JRSC_TOKEN);
-console.log('BING_COOKIE', !!process.env.BING_COOKIE);
-console.log('DOTENV_KEY', !!process.env.DOTENV_KEY);
-console.log('HELLO', !!process.env.HELLO);
-
 const pipeline = promisify(stream.pipeline);
 
 async function init() {
     const cwd = process.cwd();
     try {
-        const res: Response = await getImageBySentence();
+        const argv = require("minimist")(process.argv.slice(2));
+        if (!argv?.cookie || typeof argv.cookie === 'boolean') {
+            throw new Error("Please provide a cookie using the --cookie argument");
+        }
+        if (!argv?.token || typeof argv.token === 'boolean') {
+            throw new Error("Please provide a token using the --token argument");
+        }
+        const res: Response = await getImageBySentence({
+            cookie: argv.cookie,
+            token: argv.token
+        });
         console.log("Create Successful: ", res);
 
         const imagesPath = path.join(cwd, "images");

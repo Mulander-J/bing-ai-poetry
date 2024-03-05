@@ -32,10 +32,11 @@ jobs:
             - name: Build
               run: pnpm run build
               env:
-                  DOTENV_KEY: ${{ secrets.DOTENV_KEY }}
+                  BING_COOKIE: ${{ secrets.BING_COOKIE }}
+                  JRSC_TOKEN: ${{ secrets.JRSC_TOKEN }}
 
             - name: Create Image
-              run: pnpm run start
+              run: pnpm run start --cookie="${{ secrets.BING_COOKIE }}" --token="${{ secrets.JRSC_TOKEN }}"
 
             - name: Push New Pic
               run: |
