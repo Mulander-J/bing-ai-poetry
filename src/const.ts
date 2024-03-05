@@ -1,3 +1,8 @@
+import "dotenv/config";
+
+console.log('JRSC', !!process.env.JRSC_TOKEN);
+console.log('BING_COOKIE', !!process.env.BING_COOKIE);
+
 export const BING_URL: string = process.env.BING_URL || "https://www.bing.com";
 export const BING_COOKIE:string = process.env.BING_COOKIE;
 export const HEADERS: { [key: string]: string } = {
@@ -14,3 +19,4 @@ export const HEADERS: { [key: string]: string } = {
 
 // export const SENTENCE_API = "https://v1.jinrishici.com/all";
 export const SENTENCE_API = "https://v2.jinrishici.com/sentence";
+export const JRSC_TOKEN = process.env.JRSC_TOKEN;

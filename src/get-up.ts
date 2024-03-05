@@ -1,4 +1,4 @@
-import { SENTENCE_API } from "./const";
+import { SENTENCE_API, JRSC_TOKEN } from "./const";
 import { BingImageCreator } from "./bing-image-creator";
 import type { JRSCV2Response, SentenceResponse, Response } from "./types";
 
@@ -12,7 +12,7 @@ async function getSentence(): Promise<SentenceResponse> {
     try {
         const res = await fetch(SENTENCE_API, {
             headers: {
-                'X-User-Token': process.env.JRSC_TOKEN
+                'X-User-Token': JRSC_TOKEN
             },
         });
         const { data }: JRSCV2Response = await res.json();
