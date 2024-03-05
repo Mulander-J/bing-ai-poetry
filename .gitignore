@@ -5,3 +5,7 @@ dist
 
 .idea
 .vscode
+.env*
+.flaskenv*
+!.env.project
+!.env.vault

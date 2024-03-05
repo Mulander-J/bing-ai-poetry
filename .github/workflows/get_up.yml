@@ -3,6 +3,9 @@ name: ci
 on:
     schedule:
         - cron: "0 22 * * 1,3"
+    push:
+      branches:
+          - main
 
 jobs:
     CreateImage:
@@ -29,8 +32,7 @@ jobs:
             - name: Build
               run: pnpm run build
               env:
-                BING_COOKIE: ${{ secrets.BING_COOKIE }}
-                JRSC_TOKEN: ${{ secrets.JRSC_TOKEN }}
+                DOTENV_KEY: ${{ secrets.DOTENV_KEY }}
 
             - name: Create Image
               run: pnpm run start
