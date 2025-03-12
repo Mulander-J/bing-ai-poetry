@@ -11,14 +11,14 @@ async function init() {
     const cwd = process.cwd();
     try {
         const argv = require("minimist")(process.argv.slice(2));
-        if (!argv?.cookie || typeof argv.cookie === 'boolean') {
-            throw new Error("Please provide a cookie using the --cookie argument");
+        if (!argv?.apiKey || typeof argv.cookie === 'boolean') {
+            throw new Error("Please provide a apiKey using the --apiKey argument");
         }
         if (!argv?.token || typeof argv.token === 'boolean') {
             throw new Error("Please provide a token using the --token argument");
         }
         const res: Response = await getImageBySentence({
-            cookie: argv.cookie,
+            apiKey: argv.apiKey,
             token: argv.token
         });
         console.log("Create Successful: ", res);

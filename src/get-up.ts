@@ -1,6 +1,8 @@
-import { SENTENCE_API } from "./const";
-import { BingImageCreator } from "./bing-image-creator";
 import type { JRSCV2Response, SentenceResponse, Response } from "./types";
+import { BingImageGenerator } from "./image-generator";
+
+// export const SENTENCE_API = "https://v1.jinrishici.com/all";
+const SENTENCE_API = "https://v2.jinrishici.com/sentence";
 
 
 /**
@@ -30,23 +32,26 @@ async function getSentence(token:string): Promise<SentenceResponse> {
     }
 }
 
-async function getImageBySentence({cookie,token}:Record<string,string>): Promise<Response> {
-    const bingImageCreator = new BingImageCreator(cookie);
+interface ImageGeneratorParams extends Record<string, string> {
+    apiKey?: string;
+    token: string;
+}
 
-    const res = await getSentence(token);
+async function getImageBySentence(params: ImageGeneratorParams): Promise<Response> {
+    const res = await getSentence(params.token);
     console.log("getSentence Result: ", res);
 
-    const targetTxt = res.translate || res.content
-    const prompt = `"""${targetTxt}""", textless`;    
-
+    const targetTxt = res.translate || res.content;
+    const prompt = `"""${targetTxt}"""`;
     try {
-        const images = await bingImageCreator.createImage(prompt);
+        let imageGenerator = new BingImageGenerator({cookie:params.apiKey});
+        const images = await imageGenerator.createImage(prompt);
         return {
-            images,
-            ...res
+            ...res,
+            images
         };
     } catch (error) {
-        throw new Error(`Bing Image create failed: ${error.message}`);
+        throw new Error(`Image creation failed: ${error.message}`);
     }
 }
 
